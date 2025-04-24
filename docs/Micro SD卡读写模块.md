@@ -1,6 +1,6 @@
 # 												Micro SD卡读写模块
 
-![](.\media\1.png)
+![](media/1.png)
 
 ## 1、概述
 
@@ -30,7 +30,7 @@ Micro SD 卡读写模块多以小型电路板形式呈现，采用 SPI 接口通
 |        VCC         |  5V   |
 |        GND         |  GND  |
 
-![TS2408接线图](.\media\TS2408接线图.jpg)
+![TS2408接线图](media/TS2408接线图.jpg)
 
 ## 4、测试代码
 
