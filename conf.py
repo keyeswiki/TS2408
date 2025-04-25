@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyes Wiki 文档'
+project = 'keyes Wiki'
 copyright = 'keyestudio'
 author = 'keyestudio'
 
