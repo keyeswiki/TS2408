@@ -1,6 +1,6 @@
 # 												Micro SD卡读写模块
 
-![](.\media\1.png)
+![](media/1.png)
 
 ## 1、概述
 
